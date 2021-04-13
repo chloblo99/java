@@ -1,0 +1,2 @@
+Courses:Maths,Science
+Lecturers for courses: Dr Wilson, Dr Whan.
